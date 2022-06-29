@@ -43,3 +43,18 @@ npm i
 ```bash
 # node app.js
 ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/79042363/176440921-3fe5f726-ee04-4d15-b6a5-a6658fbdc292.png)
+
+![image](https://user-images.githubusercontent.com/79042363/176442072-31ad3c4a-9b40-4601-81ad-492dceeb7af2.png)
+
+![image](https://user-images.githubusercontent.com/79042363/176444812-efe7894d-538b-478e-8850-a6afd6caf810.png)
+
+
+
+
+
+
+
